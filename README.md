@@ -30,7 +30,25 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+</p>
 
+<!-- 
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -53,7 +71,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
-
+-->
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
