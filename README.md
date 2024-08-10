@@ -13,7 +13,6 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-<br><br>
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -34,6 +33,14 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrs1166ma&show_icons=true&theme=dark)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=adrs1166ma&show_icons=true&theme=dark" alt="Anderson's GitHub stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrs1166ma&layout=compact&theme=dark" alt="Top Langs" />
+</td>
+</tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrs1166ma&layout=compact&theme=dark)
