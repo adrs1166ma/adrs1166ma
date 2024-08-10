@@ -13,12 +13,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-<br>
-
-
-<div align="center">
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/961674203)	
-</div>
+<br><br>
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -42,4 +37,3 @@
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrs1166ma&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrs1166ma&layout=compact&theme=dark)
-
